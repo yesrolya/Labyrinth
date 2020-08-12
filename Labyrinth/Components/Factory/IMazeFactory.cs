@@ -4,7 +4,8 @@ using Labyrinth.Schema;
 namespace Labyrinth.Components.Factory
 {
     /// <summary>
-    /// Интерфейс фабрики лабиринта
+    /// Интерфейс фабрики лабиринта.
+    /// Паттерн абстрактная фабрика
     /// </summary>
     public interface IMazeFactory
     {
