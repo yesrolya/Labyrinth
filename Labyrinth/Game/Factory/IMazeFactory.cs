@@ -1,7 +1,8 @@
-﻿using Labyrinth.Components.Doors;
+﻿using Labyrinth.Components;
+using Labyrinth.Components.Doors;
 using Labyrinth.Schema;
 
-namespace Labyrinth.Components.Factory
+namespace Labyrinth.Game.Factory
 {
     /// <summary>
     /// Интерфейс фабрики лабиринта.

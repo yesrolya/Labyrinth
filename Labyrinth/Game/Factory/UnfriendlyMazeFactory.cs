@@ -1,8 +1,9 @@
-﻿using Labyrinth.Components.Doors;
+﻿using Labyrinth.Components;
+using Labyrinth.Components.Doors;
 using Labyrinth.PlayerData;
 using Labyrinth.Schema;
 
-namespace Labyrinth.Components.Factory
+namespace Labyrinth.Game.Factory
 {
     /// <summary>
     /// Недружелюбный лабиринт, предметы в нем могут нанести увечья
